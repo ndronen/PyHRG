@@ -5,4 +5,4 @@ PyHRG is a partial implemention of [Hierarchical Random Graphs](http://tuvalu.sa
 
 The plotting functionality, such as it is, requires matplotlib and only applies to plotting HRG dendrograms, not consensus dendrograms.  It is defective.
 
-I will not be developing this code any further or fixing bugs.  If you wish to correct or enhance it, please clone this repository.
+I will not be developing this code any further or fixing bugs.  If you wish to correct or enhance it, please fork this repository.
